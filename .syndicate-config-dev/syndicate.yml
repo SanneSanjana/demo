@@ -1,0 +1,16 @@
+account_id: '897722692779'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-8660/dd9c6801/task04
+expiration: 2025-03-12 06:41:53.695044+00:00
+extended_prefix_mode: true
+project_path: C:\Users\sanne_sanjana\Desktop\AWS
+region: eu-west-1
+resources_prefix: cmtr-dd9c6801-
+tags:
+  run_id: JAP-09
+  run_type: stm
+  type: user
+  user_id: dd9c6801
+temp_aws_access_key_id: ASIA5CBDRGSVV76ASMVF
+temp_aws_secret_access_key: w09OtNZQgFIY/4PLXT4riIxKRTZLxXRTpvQ0nCZ2
+temp_aws_session_token: IQoJb3JpZ2luX2VjEG4aCXVzLWVhc3QtMSJGMEQCIQCAtpGv0G9YBVYiM+Gb1UiXr8OJ5xT9LyibUtQc4nh6bgIfSZN28qA5B39uXxCNvv1kdnJCX3lI9d2N+b9oTVGTrSrfAgi3//////////8BEAAaDDg5NzcyMjY5Mjc3OSIMxEPSVtP3BZdNUZCRKrMCTB3r1kGifF2K2dajz2EQGS4awlQjVroJk5PsAV20add8OJEkcdbLwyUQJSWbtF3NjPo06+qZMoF160eCINJNAp+AWAF7Zt+vFl7NQXGNkfBxePjFoZB08cysWoXyD8I12rXgLKfZqL5IG/RpX4pnzwqw5L90aZu4nbkrkmHUEhdVTQAcBLyxYFPA5OMtvKdZW4j9Gm8GLGCQRUGMToK8kS2mia3zMi+/Leo3eszhW55tu0DCqSDLmWUAqxuXl2l1EKFtt+RiXLKJFHEQWqrHWGbJevvm1XnLncjm+ril+IQ/rJKGK86pJFvUWlnGJYdQvYu/4DJ1jNs89Ihb2M7hQps9ZLbbJWIwa/RViYi1QGFsXQvrSZpGX7CoAyXrUAV3vZIJGY4voMGs91fac8G2Dw+f/zDuwcS+BjqeASmrUWNrsM/9LKCoceAzNYwfX9SwtZvqWKzKATpiDXE700dHkx1zFOj3YrNVjVN+0qJCv+eISxL2C1X81Oaw7fKHQatfCI5Y5RAcLPzVOXPbugFofnxRDFI84aOI3BKONUdG/LVP5WDHOo2GLBjfI7YOD08UieFTpiUWgPLCHm5UWQt9uDFg2yu/J1uVntqddf2oG0fNKWOqJp87Ghnk
+use_temp_creds: false
